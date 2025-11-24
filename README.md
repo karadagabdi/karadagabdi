@@ -28,13 +28,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<!-- GITHUB İSTATİSTİK KARTLARI -->
-<p align="center">
-  <!-- Top Languages Kartı -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karadagabdi&show_icons=true&locale=en&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
-  <!-- Genel İstatistik Kartı -->
-  <img src="https://github-readme-stats.vercel.app/api?username=karadagabdi&show_icons=true&locale=en&theme=dark" alt="GitHub İstatistikleri" />
-</p>
 
 <!-- YILAN OYUNU GIF'İ -->
 <p align="center">
